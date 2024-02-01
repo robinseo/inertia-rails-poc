@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.62.1",
+    "vite": "^4.3.5",
+    "vite-plugin-full-reload": "^1.0.5",
+    "vite-plugin-ruby": "^3.2.2"
+  },
+  "dependencies": {
+    "@inertiajs/vue3": "^1.0.6"
+  }
+}
